@@ -20,6 +20,7 @@
 /app/Resources/SensioGeneratorBundle
 /app/phpunit.xml
 /app/spool/*
+/vendor
 !/vendor/.htaccess
 /bin/*
 /composer.phar
